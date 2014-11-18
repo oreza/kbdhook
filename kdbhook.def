@@ -1,0 +1,9 @@
+LIBRARY	"kbdhook"
+EXPORTS
+	InstallKbdHook
+	UninstallKbdHook
+	IsHookInstalled
+	SetTaskKeyDisable
+	IsHotKeyPressed
+	SetConfigurationDialog
+	IsTaskKeysDisabled	
